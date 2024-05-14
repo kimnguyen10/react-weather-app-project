@@ -32,6 +32,10 @@
   display: inline-block;
 }
 
+.float-left {
+  float: left !important;
+}
+
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
